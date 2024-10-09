@@ -2,4 +2,5 @@ Los monumentos de arquitectura que hoy se consideran como visigodos en nuestra p
 
 La ermita de Santa María, situada en la localidad burgalesa de Quintanilla de las Viñas.
 
-![ermita](img/ermita.jpg)
+<img src="img/ermita.jpg" alt="ermita" width="300"/>
+
